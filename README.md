@@ -16,17 +16,6 @@
 
 ---
 
-## 🏆 GitHub Achievements  
-
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark - Merged Pull Requests"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO - Pushed to main branch"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80" title="Galaxy Brain - Discussions & Knowledge Sharing"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="80" title="Arctic Code Vault Contributor"/>
-</p>
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aditya-54&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
