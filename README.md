@@ -1,23 +1,28 @@
 # 👋 Hi, I'm Aditya Sharma  
 
-🌱 An undergraduate Computer Science student passionate about **Web Development, Data Science & AI**.  
-💻 Currently learning **Java & C++**  
-🤝 Open to collaborating on **Web/App Development & AI Projects**  
+🌱 An undergraduate Computer Science student passionate about **Web Development, AI/ML & Data Science**.  
+📊 Currently learning **Deep Learning, Audio Processing, and Advanced AI/ML**  
+💻 Exploring **Web, App & Backend Development (APIs, Databases, Cloud)**  
+🦀 Language learning: **Rust**  
+🤝 Open to collaborating on **Web/App/AI Projects**  
 📫 Reach me at: **adityasharma3921@gmail.com**
-
----
-
-## 🏆 Achievements
-- 🥇 Participated in **Smart India Hackathon (2024)**
-- 📊 Built projects in **Data Science & Machine Learning**
-- 🎮 Created a **Java 2D Game**  
-- 🌐 Developed multiple **Web Applications**
 
 ---
 
 ## ⚡ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,mysql,sqlite,flask,react,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,rust,mysql,sqlite,flask,react,nodejs,git,github,vscode,linux" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements  
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark - Merged Pull Requests"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO - Pushed to main branch"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80" title="Galaxy Brain - Discussions & Knowledge Sharing"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="80" title="Arctic Code Vault Contributor"/>
 </p>
 
 ---
