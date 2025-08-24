@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Aditya Sharma
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full+Stack+Developer;AI%2FML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </div>
@@ -8,7 +9,17 @@
   <img src="https://img.shields.io/github/followers/Aditya-54?label=Followers&style=social" alt="GitHub Badge" />
 </div>
 
+## 📱 GitHub Mobile Profile Bio
+**Perfect for your GitHub mobile profile description:**
+
+🎯 **CS Student** | 💻 **Full Stack Dev** | 🤖 **AI/ML Enthusiast**  
+🔥 Building innovative **web apps** & exploring **deep learning**  
+🦀 Currently mastering **Rust** & **audio processing**  
+📫 **adityasharma3921@gmail.com** | 🤝 Open for collaboration!  
+
 ---
+
+
 
 ## 🚀 About Me
 ```yaml
@@ -77,20 +88,40 @@ contact: adityasharma3921@gmail.com
 
 ---
 
-## 📈 Contribution Activity
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-54&theme=tokyo-night&hide_border=true" width="100%" />
-</div>
 
----
 
 ## 🎯 Current Focus Areas
 
-- 🧠 **Deep Learning**: Neural Networks, Computer Vision
-- 🔊 **Audio Processing**: Signal processing, Speech recognition
-- 🦀 **Rust Programming**: Systems programming, Performance optimization
-- ☁️ **Cloud Technologies**: AWS, Docker, Microservices
-- 📊 **Data Science**: Machine Learning, Statistical Analysis
+### 🔬 **Learning Journey**
+```diff
++ 🧠 Deep Learning: Neural Networks, Computer Vision, NLP
++ 🔊 Audio Processing: Signal Processing, Speech Recognition
++ 🦀 Rust Programming: Systems Programming, Memory Safety
++ ☁️ Cloud Technologies: AWS, Docker, Microservices Architecture
++ 📊 Advanced ML: Reinforcement Learning, MLOps, Model Deployment
+```
+
+### 🏆 **2024 Goals**
+- [ ] Complete 3 major full-stack projects
+- [ ] Contribute to 5+ open source repositories  
+- [ ] Build an AI-powered mobile application
+- [ ] Master Rust for system-level programming
+- [ ] Deploy scalable applications on cloud platforms
+
+---
+
+## 🌟 Quick Facts
+
+<div align="center">
+
+| 💡 **Interests** | 🎯 **Specialties** | 🚀 **Currently** |
+|:---:|:---:|:---:|
+| Web Development | Full Stack Development | Learning Rust |
+| Machine Learning | API Design | Audio Processing |
+| Data Science | Database Optimization | Deep Learning |
+| Open Source | System Architecture | Cloud Deployment |
+
+</div>
 
 ---
 
