@@ -13,7 +13,8 @@ Computer Science Student | Full Stack Developer | AI/ML Enthusiast
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-Deep in learning mode — exploring Deep Learning, Audio Processing & Rust. After years of full-stack development, system design feels like a breath of fresh air.
+Building at the intersection of AI and real-world problems. If it can be automated, it should be automated.
+Also math is a wild concept 
 
 ## Current Projects
 
