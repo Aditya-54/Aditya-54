@@ -17,12 +17,11 @@ Deep in learning mode — exploring Deep Learning, Audio Processing & Rust. Afte
 
 ## Current Projects
 
-- **[Your-Pinned-Project-1](#)** - Brief description of what it does
-- **[Your-Pinned-Project-2](#)** - Brief description of what it does
-- **[Your-Pinned-Project-3](#)** - Brief description of what it does
-- **[Your-Pinned-Project-4](#)** - Brief description of what it does
-- **[Your-Pinned-Project-5](#)** - Brief description of what it does
-- **[Your-Pinned-Project-6](#)** - Brief description of what it does
+- **[Video-call-Stremo-LumenRTC](https://github.com/Aditya-54/Video-call-Stremo-LumenRTC)** - Real-time video calling application built with WebRTC
+- **[remote-screen-capture-netview](https://github.com/Aditya-54/remote-screen-capture-netview)** - Remote screen capture and monitoring tool
+- **[Manga-Manhwa-Scripte-page-Translation](https://github.com/Aditya-54/Manga-Manhwa-Scripte-page-Translation)** - Automated translation tool for manga and manhwa pages
+- **[Football_Yolov8_detection-Analyzer](https://github.com/Aditya-54/Football_Yolov8_detection-Analyzer)** - Football video analysis system using YOLOv8 for player detection and tracking
+- **[fish-detection-classification](https://github.com/Aditya-54/fish-detection-classification)** - Fish species detection and classification using YoloV8n and MobilenetV3
 
 ---
 
