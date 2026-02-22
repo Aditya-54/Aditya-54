@@ -30,7 +30,7 @@ Also math is a wild concept
 
 adityasharma3921@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/aditya-sharma-cs/)  
-[@aditya_dev54](https://twitter.com/aditya_dev54)
+[@aditya_dev54](https://x.com/AdityaBuilds_Z)
 
 ---
 
