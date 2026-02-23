@@ -38,9 +38,6 @@ adityasharma3921@gmail.com
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-54&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stat" />
-</div>
 
 <div align="center">
   <i>Building tomorrow's solutions with today's technology</i>
