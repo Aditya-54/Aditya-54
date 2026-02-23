@@ -29,13 +29,13 @@ Also math is a wild concept
 ### Reach Me
 
 adityasharma3921@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/aditya-sharma-cs/)  
-[@aditya_dev54](https://x.com/AdityaBuilds_Z)
+
+
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-54&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-54&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stat" />
 </div>
 
 <div align="center">
