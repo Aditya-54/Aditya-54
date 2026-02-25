@@ -28,7 +28,7 @@ Also math is a wild concept
 
 ### Reach Me
 
-adityasharma3921@gmail.com  
+📧-adityasharma3921@gmail.com  
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Aditya-54&theme=github-dark&hide_border=true" />
