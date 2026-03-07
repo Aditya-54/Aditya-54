@@ -18,29 +18,31 @@ Also math is a wild concept
 
 ## Featured Projects
 
+<p align="center">
 <a href="https://github.com/Aditya-54/yt-insta-short-video-automation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-54&repo=yt-insta-short-video-automation&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-54&repo=yt-insta-short-video-automation">
 </a>
 
 <a href="https://github.com/Aditya-54/Video-call-Stremo-LumenRTC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-54&repo=Video-call-Stremo-LumenRTC&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-54&repo=Video-call-Stremo-LumenRTC">
 </a>
 
 <a href="https://github.com/Aditya-54/remote-screen-capture-netview">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-54&repo=remote-screen-capture-netview&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-54&repo=remote-screen-capture-netview">
 </a>
 
 <a href="https://github.com/Aditya-54/Manga-Manhwa-Scripte-page-Translation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-54&repo=Manga-Manhwa-Scripte-page-Translation&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-54&repo=Manga-Manhwa-Scripte-page-Translation">
 </a>
 
 <a href="https://github.com/Aditya-54/Football_Yolov8_detection-Analyzer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-54&repo=Football_Yolov8_detection-Analyzer&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-54&repo=Football_Yolov8_detection-Analyzer">
 </a>
 
 <a href="https://github.com/Aditya-54/fish-detection-classification">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-54&repo=fish-detection-classification&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-54&repo=fish-detection-classification">
 </a>
+</p>
 
 ### Reach Me
 
