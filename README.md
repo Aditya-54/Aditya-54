@@ -18,31 +18,17 @@ Also math is a wild concept
 
 ## Featured Projects
 
-<p align="center">
-<a href="https://github.com/Aditya-54/yt-insta-short-video-automation">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-54&repo=yt-insta-short-video-automation">
-</a>
+[![yt-insta-short-video-automation](https://github-readme-stats.vercel.app/api/pin/?username=Aditya-54&repo=yt-insta-short-video-automation&cache_seconds=86400)](https://github.com/Aditya-54/yt-insta-short-video-automation)
 
-<a href="https://github.com/Aditya-54/Video-call-Stremo-LumenRTC">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-54&repo=Video-call-Stremo-LumenRTC">
-</a>
+[![Video-call-Stremo-LumenRTC](https://github-readme-stats.vercel.app/api/pin/?username=Aditya-54&repo=Video-call-Stremo-LumenRTC&cache_seconds=86400)](https://github.com/Aditya-54/Video-call-Stremo-LumenRTC)
 
-<a href="https://github.com/Aditya-54/remote-screen-capture-netview">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-54&repo=remote-screen-capture-netview">
-</a>
+[![remote-screen-capture-netview](https://github-readme-stats.vercel.app/api/pin/?username=Aditya-54&repo=remote-screen-capture-netview&cache_seconds=86400)](https://github.com/Aditya-54/remote-screen-capture-netview)
 
-<a href="https://github.com/Aditya-54/Manga-Manhwa-Scripte-page-Translation">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-54&repo=Manga-Manhwa-Scripte-page-Translation">
-</a>
+[![Manga-Manhwa-Scripte-page-Translation](https://github-readme-stats.vercel.app/api/pin/?username=Aditya-54&repo=Manga-Manhwa-Scripte-page-Translation&cache_seconds=86400)](https://github.com/Aditya-54/Manga-Manhwa-Scripte-page-Translation)
 
-<a href="https://github.com/Aditya-54/Football_Yolov8_detection-Analyzer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-54&repo=Football_Yolov8_detection-Analyzer">
-</a>
+[![Football_Yolov8_detection-Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=Aditya-54&repo=Football_Yolov8_detection-Analyzer&cache_seconds=86400)](https://github.com/Aditya-54/Football_Yolov8_detection-Analyzer)
 
-<a href="https://github.com/Aditya-54/fish-detection-classification">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-54&repo=fish-detection-classification">
-</a>
-</p>
+[![fish-detection-classification](https://github-readme-stats.vercel.app/api/pin/?username=Aditya-54&repo=fish-detection-classification&cache_seconds=86400)](https://github.com/Aditya-54/fish-detection-classification)
 
 ### Reach Me
 
