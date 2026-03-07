@@ -19,6 +19,7 @@ Also math is a wild concept
 ## Current Projects
 
 - **[Video-call-Stremo-LumenRTC](https://github.com/Aditya-54/Video-call-Stremo-LumenRTC)** - Real-time video calling application built with WebRTC
+-**[yt-insta-short-video-automation](https://github.com/Aditya-54/yt-insta-short-video-automation)** -A production-ready system that automatically creates, edits, schedules, and uploads YouTube Shorts either from long-form videos or AI-generated scripts using a FastAPI dashboard.
 - **[remote-screen-capture-netview](https://github.com/Aditya-54/remote-screen-capture-netview)** - Remote screen capture and monitoring tool
 - **[Manga-Manhwa-Scripte-page-Translation](https://github.com/Aditya-54/Manga-Manhwa-Scripte-page-Translation)** - Automated translation tool for manga and manhwa pages
 - **[Football_Yolov8_detection-Analyzer](https://github.com/Aditya-54/Football_Yolov8_detection-Analyzer)** - Football video analysis system using YOLOv8 for player detection and tracking
