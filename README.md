@@ -16,19 +16,25 @@ Computer Science Student | Full Stack Developer | AI/ML Enthusiast
 Building at the intersection of AI and real-world problems. If it can be automated, it should be automated.
 Also math is a wild concept 
 
-## Featured Projects
+## Current Projects
 
-[![yt-insta-short-video-automation](https://github-readme-stats.vercel.app/api/pin/?username=Aditya-54&repo=yt-insta-short-video-automation&cache_seconds=86400)](https://github.com/Aditya-54/yt-insta-short-video-automation)
+- **[yt-insta-short-video-automation](https://github.com/Aditya-54/yt-insta-short-video-automation)**  
+  AI system that generates, edits, schedules, and uploads short-form videos automatically using a FastAPI dashboard.
 
-[![Video-call-Stremo-LumenRTC](https://github-readme-stats.vercel.app/api/pin/?username=Aditya-54&repo=Video-call-Stremo-LumenRTC&cache_seconds=86400)](https://github.com/Aditya-54/Video-call-Stremo-LumenRTC)
+- **[Video-call-Stremo-LumenRTC](https://github.com/Aditya-54/Video-call-Stremo-LumenRTC)**  
+  Real-time video calling application built with WebRTC and peer-to-peer streaming.
 
-[![remote-screen-capture-netview](https://github-readme-stats.vercel.app/api/pin/?username=Aditya-54&repo=remote-screen-capture-netview&cache_seconds=86400)](https://github.com/Aditya-54/remote-screen-capture-netview)
+- **[remote-screen-capture-netview](https://github.com/Aditya-54/remote-screen-capture-netview)**  
+  Remote screen capture and monitoring tool for viewing systems over a network.
 
-[![Manga-Manhwa-Scripte-page-Translation](https://github-readme-stats.vercel.app/api/pin/?username=Aditya-54&repo=Manga-Manhwa-Scripte-page-Translation&cache_seconds=86400)](https://github.com/Aditya-54/Manga-Manhwa-Scripte-page-Translation)
+- **[Manga-Manhwa-Scripte-page-Translation](https://github.com/Aditya-54/Manga-Manhwa-Scripte-page-Translation)**  
+  Automated translation pipeline for manga and manhwa pages.
 
-[![Football_Yolov8_detection-Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=Aditya-54&repo=Football_Yolov8_detection-Analyzer&cache_seconds=86400)](https://github.com/Aditya-54/Football_Yolov8_detection-Analyzer)
+- **[Football_Yolov8_detection-Analyzer](https://github.com/Aditya-54/Football_Yolov8_detection-Analyzer)**  
+  Computer vision system for football player detection and tracking using YOLOv8.
 
-[![fish-detection-classification](https://github-readme-stats.vercel.app/api/pin/?username=Aditya-54&repo=fish-detection-classification&cache_seconds=86400)](https://github.com/Aditya-54/fish-detection-classification)
+- **[fish-detection-classification](https://github.com/Aditya-54/fish-detection-classification)**  
+  Fish species detection and classification using YOLOv8n and MobileNetV3.
 
 ### Reach Me
 
