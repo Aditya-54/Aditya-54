@@ -1,9 +1,8 @@
 # Hi, I'm Aditya
 
-Computer Science Student | Full Stack Developer | AI/ML Enthusiast
+Computer Science Student | Full Stack Developer | AI/ML & DL | OS | CN 
 
-Computer science student focused on building intelligent systems, automation pipelines, and real-time applications.  
-Interested in AI, computer vision, distributed systems, and solving real-world problems through software.
+
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -17,7 +16,7 @@ Interested in AI, computer vision, distributed systems, and solving real-world p
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 Building at the intersection of AI and real-world problems. If it can be automated, it should be automated.  
-Also math is a wild concept
+Also i enjoy when math is mathing.
 
 ## Active Projects
 
