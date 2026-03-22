@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="420" font-family="'Segoe UI', Arial, sans-serif">
+  <!-- Background -->
+  <rect width="860" height="420" fill="#0d1117" rx="8"/>
+
+  <!-- S Row -->
+  <rect x="0" y="0" width="70" height="80" fill="#FF7F7F" rx="0"/>
+  <text x="35" y="50" text-anchor="middle" font-size="28" font-weight="bold" fill="#1a0000">S</text>
+  <rect x="72" y="4" width="784" height="72" fill="#161b22" rx="4"/>
+  <text x="92" y="38" font-size="14" fill="#8b949e" font-style="italic">🔧 Still grinding the A-tier projects up here... 👀</text>
+
+  <!-- A Row -->
+  <rect x="0" y="82" width="70" height="100" fill="#FFBF7F" rx="0"/>
+  <text x="35" y="142" text-anchor="middle" font-size="28" font-weight="bold" fill="#1a0800">A</text>
+  <!-- Card 1 -->
+  <rect x="72" y="86" width="380" height="92" fill="#161b22" stroke="#30363d" stroke-width="1" rx="6"/>
+  <text x="92" y="112" font-size="13" font-weight="bold" fill="#58a6ff">📹 Video-call-Stremo-LumenRTC</text>
+  <text x="92" y="132" font-size="11" fill="#8b949e">Real-time WebRTC peer-to-peer video calling</text>
+  <text x="92" y="148" font-size="11" fill="#8b949e">&amp; low-latency streaming</text>
+  <!-- Card 2 -->
+  <rect x="462" y="86" width="390" height="92" fill="#161b22" stroke="#30363d" stroke-width="1" rx="6"/>
+  <text x="482" y="112" font-size="13" font-weight="bold" fill="#58a6ff">🤖 yt-insta-short-video-automation</text>
+  <text x="482" y="132" font-size="11" fill="#8b949e">AI pipeline that generates, edits, schedules</text>
+  <text x="482" y="148" font-size="11" fill="#8b949e">&amp; uploads short-form videos</text>
+
+  <!-- B Row -->
+  <rect x="0" y="184" width="70" height="100" fill="#FFFF7F" rx="0"/>
+  <text x="35" y="244" text-anchor="middle" font-size="28" font-weight="bold" fill="#1a1a00">B</text>
+  <!-- Card 1 -->
+  <rect x="72" y="188" width="244" height="92" fill="#161b22" stroke="#30363d" stroke-width="1" rx="6"/>
+  <text x="88" y="214" font-size="12" font-weight="bold" fill="#58a6ff">🖥️ remote-screen-capture</text>
+  <text x="88" y="230" font-size="12" font-weight="bold" fill="#58a6ff">-netview</text>
+  <text x="88" y="250" font-size="11" fill="#8b949e">Remote screen capture &amp;</text>
+  <text x="88" y="266" font-size="11" fill="#8b949e">monitoring across a network</text>
+  <!-- Card 2 -->
+  <rect x="324" y="188" width="244" height="92" fill="#161b22" stroke="#30363d" stroke-width="1" rx="6"/>
+  <text x="340" y="214" font-size="12" font-weight="bold" fill="#58a6ff">📖 Manga-Manhwa</text>
+  <text x="340" y="230" font-size="12" font-weight="bold" fill="#58a6ff">-Translation</text>
+  <text x="340" y="250" font-size="11" fill="#8b949e">Automated OCR + LLM translation</text>
+  <text x="340" y="266" font-size="11" fill="#8b949e">for manga &amp; manhwa pages</text>
+  <!-- Card 3 -->
+  <rect x="576" y="188" width="276" height="92" fill="#161b22" stroke="#30363d" stroke-width="1" rx="6"/>
+  <text x="592" y="214" font-size="12" font-weight="bold" fill="#58a6ff">⚽ Football-YOLOv8</text>
+  <text x="592" y="230" font-size="12" font-weight="bold" fill="#58a6ff">-Analyzer</text>
+  <text x="592" y="250" font-size="11" fill="#8b949e">YOLOv8 player detection, tracking</text>
+  <text x="592" y="266" font-size="11" fill="#8b949e">&amp; match analysis pipeline</text>
+
+  <!-- C Row -->
+  <rect x="0" y="286" width="70" height="130" fill="#7FFF7F" rx="0"/>
+  <text x="35" y="356" text-anchor="middle" font-size="28" font-weight="bold" fill="#001a00">C</text>
+  <!-- Card 1 -->
+  <rect x="72" y="290" width="380" height="92" fill="#161b22" stroke="#30363d" stroke-width="1" rx="6"/>
+  <text x="92" y="316" font-size="13" font-weight="bold" fill="#58a6ff">🐟 fish-detection-classification</text>
+  <text x="92" y="336" font-size="11" fill="#8b949e">Fish species detection &amp; classification</text>
+  <text x="92" y="352" font-size="11" fill="#8b949e">using YOLOv8n + MobileNetV3</text>
+
+  <!-- Row dividers -->
+  <line x1="0" y1="81" x2="860" y2="81" stroke="#30363d" stroke-width="1"/>
+  <line x1="0" y1="183" x2="860" y2="183" stroke="#30363d" stroke-width="1"/>
+  <line x1="0" y1="285" x2="860" y2="285" stroke="#30363d" stroke-width="1"/>
+  <!-- Vertical divider after tier label -->
+  <line x1="71" y1="0" x2="71" y2="420" stroke="#30363d" stroke-width="1"/>
+</svg>
