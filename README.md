@@ -26,13 +26,54 @@
 
 ---
 
-## Projects Tierlist
+## 🏆 Projects Tierlist
 
-![Tierlist](https://github.com/Aditya-54/Aditya-54/blob/main/tierlist.svg)
+<table>
+  <tr>
+    <td align="center" width="60"><img src="https://img.shields.io/badge/S-FF7F7F?style=for-the-badge&logoColor=white" /></td>
+    <td><em>🔧 Still grinding the A-tier projects up here... 👀</em></td>
+  </tr>
+  <tr>
+    <td align="center" width="60"><img src="https://img.shields.io/badge/A-FFBF7F?style=for-the-badge&logoColor=white" /></td>
+    <td>
+      <a href="https://github.com/Aditya-54/Video-call-Stremo-LumenRTC">
+        <img src="https://img.shields.io/badge/📹_Video--call--Stremo--LumenRTC-Real--time_WebRTC_peer--to--peer_video_calling-orange?style=for-the-badge" />
+      </a>
+      &nbsp;
+      <a href="https://github.com/Aditya-54/yt-insta-short-video-automation">
+        <img src="https://img.shields.io/badge/🤖_yt--insta--short--video--automation-AI_pipeline_for_short--form_video_generation-orange?style=for-the-badge" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="60"><img src="https://img.shields.io/badge/B-FFFF7F?style=for-the-badge&logoColor=white" /></td>
+    <td>
+      <a href="https://github.com/Aditya-54/remote-screen-capture-netview">
+        <img src="https://img.shields.io/badge/🖥️_remote--screen--capture--netview-Network_screen_monitoring_tool-yellow?style=for-the-badge" />
+      </a>
+      &nbsp;
+      <a href="https://github.com/Aditya-54/Manga-Manhwa-Scripte-page-Translation">
+        <img src="https://img.shields.io/badge/📖_Manga--Manhwa--Translation-OCR_+_LLM_translation_pipeline-yellow?style=for-the-badge" />
+      </a>
+      &nbsp;
+      <a href="https://github.com/Aditya-54/Football_Yolov8_detection-Analyzer">
+        <img src="https://img.shields.io/badge/⚽_Football--YOLOv8--Analyzer-Player_detection_%26_match_analysis-yellow?style=for-the-badge" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="60"><img src="https://img.shields.io/badge/C-7FFF7F?style=for-the-badge&logoColor=white" /></td>
+    <td>
+      <a href="https://github.com/Aditya-54/fish-detection-classification">
+        <img src="https://img.shields.io/badge/🐟_fish--detection--classification-YOLOv8n_+_MobileNetV3_species_ID-brightgreen?style=for-the-badge" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Aditya-54&theme=github-dark&hide_border=true" />
@@ -46,7 +87,7 @@
 
 ---
 
-## Reach Me
+## 📬 Reach Me
 
 [![Email](https://img.shields.io/badge/Email-adityasharma3921@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adityasharma3921@gmail.com)
 
