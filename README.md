@@ -28,7 +28,7 @@
 
 ## Projects Tierlist
 
-![Tierlist](https://raw.githubusercontent.com/Aditya-54/Aditya-54/main/tierlist.svg)
+![Tierlist](https://github.com/Aditya-54/Aditya-54/blob/main/tierlist.svg)
 
 ---
 
