@@ -31,7 +31,7 @@
 <table>
   <tr>
     <td align="center" width="60"><img src="https://img.shields.io/badge/S-FF7F7F?style=for-the-badge&logoColor=white" /></td>
-    <td><em> Still optimizing and gringing the A-tier projects up here </em></td>
+    <td> Still optimizing and grinding the A-tier projects up here </td>
   </tr>
   <tr>
     <td align="center" width="60"><img src="https://img.shields.io/badge/A-FFBF7F?style=for-the-badge&logoColor=white" /></td>
